@@ -79,3 +79,9 @@ footer {
 
   color: var(--color-footer-and-legend-image);
 }
+
+@media (max-width: 1200px) {
+  .recipeContainer {
+    width: 93%;
+  }
+} 
